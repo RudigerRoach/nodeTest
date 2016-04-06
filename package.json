@@ -1,0 +1,19 @@
+{
+  "name": "nodetest",
+  "version": "0.0.1",
+  "description": "an app to test node.js on OpenShift",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RudigerRoach/nodeTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RudigerRoach/nodeTest/issues"
+  },
+  "homepage": "https://github.com/RudigerRoach/nodeTest#readme"
+}
